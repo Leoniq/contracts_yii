@@ -1,0 +1,87 @@
+<contracts>
+	<contract>
+		<id>15036499827181</id>
+		<type>current.4001</type>
+		<contractType>current</contractType>
+		<status>active</status>
+		<contractID>AR020001EUR640010001</contractID>
+
+		<numberInternal>AR020001EUR640010001</numberInternal>
+		<numberPan></numberPan>
+		
+		<currency>EUR</currency>
+		<openDate>24.08.2017</openDate>
+		<closeDate></closeDate>
+		<permission>A</permission>
+        
+	</contract>
+	<contract>
+		<id>15036500331691</id>
+		<type>current.4001</type>
+		<contractType>current</contractType>
+		<status>active</status>
+		<contractID>AR020001USD540010001</contractID>
+
+		<numberInternal>AR020001USD540010001</numberInternal>
+		<numberPan></numberPan>
+
+		<currency>USD</currency>
+		<openDate>23.08.2017</openDate>
+		<closeDate></closeDate>
+
+		<permission>B</permission>
+	</contract>
+	<contract>
+		<id>15036514623051</id>
+		<type>current.4001</type>
+		<contractType>current</contractType>
+		<status>active</status>
+		<contractID>AR020001GBP640010001</contractID>
+
+		<numberInternal>AR020001GBP640010001</numberInternal>
+		<numberPan></numberPan>
+
+		<currency>GBP</currency>
+		<openDate>23.08.2017</openDate>
+		<closeDate></closeDate>
+		<permission>A</permission>
+	</contract>
+	<contract>
+		<id>15042715904301</id>
+		<type>current.4001</type>
+		<contractType>current</contractType>
+		<status>active</status>
+		<contractID>AR020001EUR740010002</contractID>
+
+		<numberInternal>AR020001EUR740010002</numberInternal>
+		<numberPan></numberPan>
+
+		<currency>EUR</currency>
+		<openDate>31.08.2017</openDate>
+		<closeDate></closeDate>
+		<permission>B</permission>
+	</contract>
+	<contract>
+		<id>15042884010341</id>
+		<type>current.4001</type>
+		<contractType>current</contractType>
+		<status>active</status>
+		<contractID>AR020001JPY740010001</contractID>
+
+		<numberInternal>AR020001JPY740010001</numberInternal>
+		<numberPan></numberPan>
+
+		<currency>JPY</currency>
+		<openDate>31.08.2017</openDate>
+		<closeDate>31.12.2017</closeDate>
+		<permission>C</permission>
+	</contract>
+
+	
+<errorcode></errorcode>	
+<error></error><pager>
+	<count>2</count>
+	<current>1</current>
+	<size>5</size>
+</pager>
+</contracts>
